@@ -109,7 +109,6 @@
             768:{
                 items:2
             },
-this is for demonstrate git pull and git fetch
             992:{
                 items:3
             }
@@ -117,4 +116,5 @@ this is for demonstrate git pull and git fetch
     });
     
 })(jQuery);
+this is demostrate file
 
